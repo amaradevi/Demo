@@ -6,8 +6,8 @@ public class EvenOdds {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		int a[]= {10,5,22,43,27,4,81,19,6};
+		//this is for tetsing git 
+		int a[]= {10,5,22,43,27,4,81,19,6,10};
 		System.out.println(Arrays.toString(a));
 		 ArrayList<Integer> l = new ArrayList<>();
 		 for (int id: a) {
